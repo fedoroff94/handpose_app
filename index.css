@@ -47,3 +47,10 @@
     left: 50px;
     text-align: center;
 }
+
+.fps-counter {
+    font-size: 30px;
+    color: red;
+}
+
+
